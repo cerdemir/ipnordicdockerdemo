@@ -35,3 +35,6 @@ nginx:
         - node3:node3
     ports:
         - "80:80"
+
+
+        
